@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study-Dev\\Projects-NH\\Project-API-NH\\Project-API-NH\\Project-API-NH.csproj": {}
+    "/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/Project-API-NH.csproj": {}
   },
   "projects": {
-    "D:\\Study-Dev\\Projects-NH\\Project-API-NH\\Project-API-NH\\Project-API-NH.csproj": {
+    "/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/Project-API-NH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study-Dev\\Projects-NH\\Project-API-NH\\Project-API-NH\\Project-API-NH.csproj",
+        "projectUniqueName": "/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/Project-API-NH.csproj",
         "projectName": "Project-API-NH",
-        "projectPath": "D:\\Study-Dev\\Projects-NH\\Project-API-NH\\Project-API-NH\\Project-API-NH.csproj",
-        "packagesPath": "C:\\Users\\johny\\.nuget\\packages\\",
-        "outputPath": "D:\\Study-Dev\\Projects-NH\\Project-API-NH\\Project-API-NH\\obj\\",
+        "projectPath": "/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/Project-API-NH.csproj",
+        "packagesPath": "/Users/hoanganhvu/.nuget/packages/",
+        "outputPath": "/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\johny\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/hoanganhvu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,6 +66,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
@@ -88,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

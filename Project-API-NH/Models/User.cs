@@ -1,14 +1,27 @@
 ﻿
 using System;
-using System.Collections.Generic;
-namespace Project_API_NH.Entities
+
+namespace Project_API_NH.Models
+
 {
 	public class User
 	{
-		public User()
-		{
+		public int Id { get; set; }
 
-		}
-	}
+		public string Email { get; set; } = string.Empty;
+
+        public byte[] PasswordHash { get; set; } = new byte[32];
+
+        public byte[] PasswordSalt { get; set; } = new byte[32];
+
+        public string? VeryficationToken { get; set; }
+
+        public DateTime? VeryfiedAt { get; set; }
+
+        public string? PasswordResetToken { get; set; }
+
+        public DateTime? ResetTokenExpires { get; set; }
+
+    }
 }
 
