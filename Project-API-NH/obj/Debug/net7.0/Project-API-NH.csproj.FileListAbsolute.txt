@@ -31,6 +31,13 @@ D:/Study-Dev/Projects-NH/Project-API-NH/Project-API-NH/obj/Debug/net7.0/refint/P
 D:/Study-Dev/Projects-NH/Project-API-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.pdb
 D:/Study-Dev/Projects-NH/Project-API-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.genruntimeconfig.cache
 D:/Study-Dev/Projects-NH/Project-API-NH/Project-API-NH/obj/Debug/net7.0/ref/Project-API-NH.dll
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.AssemblyInfo.cs
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.MvcApplicationPartsAssemblyInfo.cs
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.MvcApplicationPartsAssemblyInfo.cache
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/appsettings.Development.json
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/appsettings.json
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Project-API-NH
@@ -40,7 +47,9 @@ D:/Study-Dev/Projects-NH/Project-API-NH/Project-API-NH/obj/Debug/net7.0/ref/Proj
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Project-API-NH.pdb
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Azure.Core.dll
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Azure.Identity.dll
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/BCrypt.Net-Next.dll
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Humanizer.dll
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
@@ -86,13 +95,6 @@ D:/Study-Dev/Projects-NH/Project-API-NH/Project-API-NH/obj/Debug/net7.0/ref/Proj
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
-/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.csproj.AssemblyReference.cache
-/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.GeneratedMSBuildEditorConfig.editorconfig
-/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.AssemblyInfoInputs.cache
-/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.AssemblyInfo.cs
-/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.csproj.CoreCompileInputs.cache
-/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.MvcApplicationPartsAssemblyInfo.cs
-/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.MvcApplicationPartsAssemblyInfo.cache
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/staticwebassets/msbuild.Project-API-NH.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/staticwebassets/msbuild.build.Project-API-NH.props
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Project-API-NH.props
@@ -107,3 +109,5 @@ D:/Study-Dev/Projects-NH/Project-API-NH/Project-API-NH/obj/Debug/net7.0/ref/Proj
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.pdb
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/Project-API-NH.genruntimeconfig.cache
 /Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/obj/Debug/net7.0/ref/Project-API-NH.dll
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.DynamicLinq.dll
+/Users/hoanganhvu/Downloads/Project/Project-NH/project-API-page-NH/Project-API-NH/bin/Debug/net7.0/System.Linq.Dynamic.Core.dll

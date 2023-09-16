@@ -23,12 +23,19 @@
     </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
     <PackageReference Include="System.Collections" Version="4.3.0" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.10" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.3.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.DynamicLinq" Version="7.3.4" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Data\" />
+    <None Remove="Services\" />
+    <None Remove="Dtos\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Data\" />
+    <Folder Include="Services\" />
+    <Folder Include="Dtos\" />
   </ItemGroup>
 </Project>

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace T2203E_API.Dtos
+namespace Project_API_NH.Dtos
 {
 	public class UserData
 	{
